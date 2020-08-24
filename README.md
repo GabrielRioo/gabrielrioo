@@ -1,6 +1,10 @@
-### Hi there 👋
+### Welcome! :vulcan_salute:
 
-My name is Gabriel Paiva Rio, I'm working as Junior Systems Analyst in Telecall. I love to learn e make projects in Front-end <3
+_Loading..._
+
+**Ops!** <br>
+_This page is under construction._ :construction_worker: :construction_worker_woman:
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpaivario)](https://www.linkedin.com/in/gabrielpaivario)
 
