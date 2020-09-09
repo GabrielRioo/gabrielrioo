@@ -7,8 +7,20 @@ _This page is under construction._ :construction_worker: :construction_worker_wo
 
 Meanwhile get to know some of my projects and studies :relaxed:
 
+
+
+
+
+
+
+<table>
+
+
+<tr>
+<td>
+
 <details>
-  <summary>PROJETOS:</summary>
+  <summary>PROJETOS</summary>
   <a href="https://github.com/GabrielRioo/Keylogger"> Keylogger </a>
   <br>
   <a href="https://github.com/GabrielRioo/Site_Portifolio"> Site Portifólio </a>
@@ -24,8 +36,11 @@ Meanwhile get to know some of my projects and studies :relaxed:
   <a href="https://github.com/GabrielRioo/JavaScript_Learning/tree/master/calculadora"> Calculadora JS </a>
 </details>
 
+</td>
+<td>
+
 <details>
-  <summary>ESTUDOS:</summary>
+  <summary>ESTUDOS</summary>
   <a href="https://github.com/GabrielRioo/next-level-week-2-proffy"> RocketSeat - Next Level Week 2 - Proffy </a>
   <br>
   <a href="https://github.com/GabrielRioo/omnistack-7-instagram"> RocketSeat - Semana Omnistack 7 - Instagram </a>
@@ -55,12 +70,17 @@ Meanwhile get to know some of my projects and studies :relaxed:
   <a href="https://github.com/GabrielRioo/introduction-git"> Introdução ao Git </a>
 </details>
 
+</td>
+<td>
 <details>
-  <summary>PROJETOS:</summary>
+  <summary>HACKATOHNS</summary>
   <a href="https://github.com/GabrielRioo/MEGA-HACK"> Mega-Hack Shawee </a>
   <br>
   <a href="https://github.com/GabrielRioo/SantanderDataChallenge"> Santander Data Challange </a>
 </details>
+</td>
+</tr>
+</table>
 
 <br>
 
