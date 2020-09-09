@@ -24,6 +24,7 @@ PROJETOS | ESTUDOS | HACKATHON
 . | [Introdução ao Git](https://github.com/GabrielRioo/introduction-git) |
 
 <br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpaivario)](https://www.linkedin.com/in/gabrielpaivario)
 
 <!--
