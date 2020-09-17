@@ -29,7 +29,9 @@ Meanwhile get to know some of my projects and studies :relaxed:
   <br>
   <a href="https://github.com/GabrielRioo/TaskBuilder"> Task Builder </a>
   <br>
-  <a href="https://github.com/GabrielRioo/ChatBot_wpp"> ChatBot - WhatsApp </a>
+  <a href="https://github.com/GabrielRioo/ChatBot_wpp"> ChatBot Python- WhatsApp </a>
+  <br>
+  <a href="https://github.com/GabrielRioo/chatbot-javascript"> ChatBot JS- WhatsApp </a>
   <br>
   <a href="https://github.com/GabrielRioo/Site_Arte_Luz"> Site e-commerce </a>
   <br>
@@ -64,6 +66,12 @@ Meanwhile get to know some of my projects and studies :relaxed:
   <a href="https://github.com/GabrielRioo/MaratonaJS"> Maratona JS - Emerson Broga </a>
   <br>
   <a href="https://github.com/GabrielRioo/Cursos_Diversos/tree/master/Programacao/C%23"> Programação C# </a>
+  <br>
+  <a href="https://github.com/GabrielRioo/web-application-mvc"> Web Application MVC </a>
+  <br>
+  <a href="https://github.com/GabrielRioo/web-application-razor"> Web Application Razor </a>
+  <br>
+  <a href="https://github.com/GabrielRioo/e-commerce"> e-commerce C# e JS </a>
   <br>
   <a href="https://github.com/GabrielRioo/Cursos_Diversos/tree/master/HTML_CSS_JavaScript"> Cursos de HTML/CSS/JS </a>
   <br>
