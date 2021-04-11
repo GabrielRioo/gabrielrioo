@@ -1,6 +1,5 @@
-### Welcome! :vulcan_salute:
+## Welcome! :vulcan_salute:
 
-## Olá, meu nome é Gabriel Paiva Rio
  <div>
   <a href="https://github.com/GabrielRioo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
