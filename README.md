@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRioo&layout=compact&langs_count=8&theme=dracula"/>
 <div>
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,12 +16,10 @@
   
   ##
 
-<table>
-
-
+<div style="display: inline-block">
+<table border="2" align="center" bgcolor="red">
 <tr>
 <td>
-
 <details>
   <summary>PROJETOS</summary>
   <a href="https://github.com/GabrielRioo/Keylogger"> Keylogger </a>
@@ -92,6 +90,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
