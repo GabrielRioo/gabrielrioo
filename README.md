@@ -1,5 +1,6 @@
 ## Welcome! :vulcan_salute:
-
+### There is some of my skills...
+<!--
  <div>
   <a href="https://github.com/GabrielRioo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,11 +14,20 @@
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabs-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
   ##
-
-
-<table border="2" align="center" bgcolor="red">
+  -->
+  
+![world (11)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/2a36bea7-6f88-4018-9829-be8ec63f4bf1)
+![world (12)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/7b20a23b-c563-4cb9-bd45-9d8566a40438)
+![world (13)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/d20d15e2-b751-4780-ae99-9edfd3fa7f80)
+![world (14)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/709f6cdc-a591-4f32-80d4-f4aad27f1eb0)
+![world (15)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/3d8063ec-a100-4c19-9fe6-2aac02a60132)
+![world (16)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/2fcb2811-2581-4a9b-b807-64ae8accdb6e)
+![world (17)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/49b964b4-9ede-4aa2-9ad2-a0e935176f71)
+<br/>
+<br/>
+### Fell free to contact me and enjoy my contents here...
+<table border="2" bgcolor="red">
 <tr>
 <td>
 <details>
@@ -92,7 +102,6 @@
 </table>
 
 
-<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpaivario)](https://www.linkedin.com/in/gabrielpaivario)
 
