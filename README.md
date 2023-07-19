@@ -26,12 +26,74 @@
 ![world (17)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/49b964b4-9ede-4aa2-9ad2-a0e935176f71)
 <br/>
 <br/>
+
+
+
 ### Fell free to contact me and enjoy my contents here...
-<table border="2" bgcolor="red">
+
+<table id="myTable">
+  <thead>
+    <tr>
+      <th>Studies</th>
+      <th>Projects</th>
+      <th>Hackathons</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td><a href="https://github.com/GabrielRioo/RocketSeat_Ignite_Call"> RocketSeat - Ignite Call </a></td>
+      <td><a href="https://github.com/GabrielRioo/Ficha_Academia"> Fichas Para Academia </a></td>
+      <td><a href="https://github.com/GabrielRioo/MEGA-HACK"> Mega-Hack Shawee </a></td>
+    </tr>
+   <tr>
+      <td><a href="https://github.com/GabrielRioo/Rocketseat_Ignite_Shop"> RocketSeat - Ignite Shop </a></td>
+      <td><a href="https://github.com/GabrielRioo/Pokedex"> Pokedex </a></td>
+      <td><a href="https://github.com/GabrielRioo/SantanderDataChallenge"> Santander Data Challange </a></td>
+    </tr>
+   <tr>
+      <td><a href="https://github.com/GabrielRioo/Rocketseat_Ignite_DTMoney"> RocketSeat - Ignite DTMoney </a></td>
+      <td><a href="https://github.com/GabrielRioo/TaskBuilder"> Task Builder </a></td>
+    <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GabrielRioo/RocketSeat_Ignite_Call"> RocketSeat - Ignite Call </a></td>
+      <td><a href="https://github.com/GabrielRioo/Keylogger"> Keylogger </a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GabrielRioo/Rocketseat_DesignSystem_Storybook"> RocketSeat - Ignite Design System </a></td>
+      <td><a href="https://github.com/GabrielRioo/Site_Portifolio"> Site Portifólio </a></td>
+     <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GabrielRioo/Rocketseat_Ignite_Pomodoro"> RocketSeat - Ignite Pomodoro </a></td>
+      <td><a href="https://github.com/GabrielRioo/JavaScript_Learning/tree/master/GuessWhatGame"> Game de Advinhação </a></td>
+     <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GabrielRioo/Rocketseat_Ignite_ReactTS"> RocketSeat - Ignite React TS </a></td>
+      <td> <a href="https://github.com/GabrielRioo/ChatBot_wpp"> ChatBot Python- WhatsApp </a></td>
+    <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GabrielRioo/next-level-week-together"> RocketSeat - NLW Together </a></td>
+      <td><a href="https://github.com/GabrielRioo/chatbot-javascript"> ChatBot JS- WhatsApp </a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GabrielRioo/next-level-week-3-happy"> RocketSeat - NLW Happy </a></td>
+      <td><a href="https://github.com/GabrielRioo/JavaScript_Learning/tree/master/calculadora"> Calculadora JS </a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<!--
+<table border="2" bgcolor="red" id="myTable">
 <tr>
 <td>
 <details>
-  <summary>PROJETOS</summary>
+  <summary>PROJECTS</summary>
   <a href="https://github.com/GabrielRioo/Keylogger"> Keylogger </a>
   <br>
   <a href="https://github.com/GabrielRioo/Site_Portifolio"> Site Portifólio </a>
@@ -53,7 +115,7 @@
 <td>
 
 <details>
-  <summary>ESTUDOS</summary>
+  <summary>STUDIES</summary>
   <a href="https://github.com/GabrielRioo/next-level-week-2-proffy"> RocketSeat - Next Level Week 2 - Proffy </a>
   <br>
   <a href="https://github.com/GabrielRioo/omnistack-7-instagram"> RocketSeat - Semana Omnistack 7 - Instagram </a>
