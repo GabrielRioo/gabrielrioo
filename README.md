@@ -31,7 +31,7 @@
 
 ### Fell free to contact me and enjoy my contents here...
 
-<table id="myTable">
+<table id="myTable" align="center">
   <thead>
     <tr>
       <th>Studies</th>
