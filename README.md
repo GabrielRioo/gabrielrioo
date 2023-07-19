@@ -1,5 +1,5 @@
 ## Welcome! :vulcan_salute:
-### There is some of my skills...
+### Here are some of my skills...
 <!--
  <div>
   <a href="https://github.com/GabrielRioo">
