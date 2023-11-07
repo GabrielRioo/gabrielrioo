@@ -1,21 +1,9 @@
-## Welcome! :vulcan_salute:
-### Here are some of my skills...
-<!--
- <div>
-  <a href="https://github.com/GabrielRioo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRioo&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-<div style="display: flex"><br>
-  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  ##
-  -->
+# About Me
+Hello! 👋 <br /> <br />
+I'm Gabriel de Paiva Rio Beltrão de Souza, a passionate Fullstack Developer who loves creating web solutions and is always eager for new challenges. <br /> <br />
+With over 4 years of development experience, I'm constantly learning and honing my skills to deliver the best in terms of quality and performance.
+
+## Here are some of my skills...
   
 ![world (11)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/2a36bea7-6f88-4018-9829-be8ec63f4bf1)
 ![world (12)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/7b20a23b-c563-4cb9-bd45-9d8566a40438)
@@ -25,12 +13,19 @@
 ![world (16)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/2fcb2811-2581-4a9b-b807-64ae8accdb6e)
 ![world (17)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/49b964b4-9ede-4aa2-9ad2-a0e935176f71)
 <br/>
-<br/>
+- 💻 Languages: C# (4+ years)
+- 🌐 Frontend: React, NextJS, Vite
+- 🏗️ Backend: .NetCore 3.1, .NetCore 5, .NetFramework 4.2, Docker
+- 🛠️ Tools: Git, SQL Server, MySql, Prisma
+- 🎨 Design: Figma, Photoshop
+- 📈 Methodologies: SOLID, DDD, Scrum
 
+## Get in Touch
 
-
-### Fell free to contact me and enjoy my contents here...
-
+Feel free to contact me for collaborations, job opportunities, or just to chat about web development and technology. Let's build something amazing together!
+ <br />  <br />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpaivario)](https://www.linkedin.com/in/gabrielpaivario)
+<!--
 <table id="myTable" align="center">
   <thead>
     <tr>
@@ -87,8 +82,8 @@
     </tr>
   </tbody>
 </table>
+-->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpaivario)](https://www.linkedin.com/in/gabrielpaivario)
 
 <!--
 <table border="2" bgcolor="red" id="myTable">
