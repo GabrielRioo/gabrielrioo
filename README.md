@@ -1,6 +1,6 @@
 # About Me
 Hello! 👋 <br /> <br />
-I'm Gabriel de Paiva Rio Beltrão de Souza, a passionate Fullstack Developer who loves creating web solutions and is always eager for new challenges. <br /> <br />
+I'm Gabriel de Paiva Rio, a Fullstack Developer who loves creating web solutions and is always eager for new challenges. <br /> <br />
 With over 4 years of development experience, I'm constantly learning and honing my skills to deliver the best in terms of quality and performance.
 
 ## Here are some of my skills...
@@ -14,7 +14,7 @@ With over 4 years of development experience, I'm constantly learning and honing 
 ![world (17)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/49b964b4-9ede-4aa2-9ad2-a0e935176f71)
 <br/>
 - 💻 Languages: C# (4+ years)
-- 🌐 Frontend: React, NextJS, Vite
+- 🌐 Frontend: React (2+ years), NextJS, Vite
 - 🏗️ Backend: .NetCore 3.1, .NetCore 5, .NetFramework 4.2, Docker
 - 🛠️ Tools: Git, SQL Server, MySql, Prisma
 - 🎨 Design: Figma, Photoshop
