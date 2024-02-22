@@ -13,12 +13,12 @@ With over 4 years of development experience, I'm constantly learning and honing 
 ![world (16)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/2fcb2811-2581-4a9b-b807-64ae8accdb6e)
 ![world (17)](https://github.com/GabrielRioo/gabrielrioo/assets/61875527/49b964b4-9ede-4aa2-9ad2-a0e935176f71)
 <br/>
-- 💻 Languages: C# (4+ years)
+- 💻 Experience: 4+ years
 - 🌐 Frontend: React (2+ years), NextJS, Vite
-- 🏗️ Backend: .NetCore 3.1, .NetCore 5, .NetFramework 4.2, Docker
+- 🏗️ Backend: C# (4+ years), .NetCore 3.1, .Net 6, .NetFramework 4.2, Docker
 - 🛠️ Tools: Git, SQL Server, MySql, Prisma
 - 🎨 Design: Figma, Photoshop
-- 📈 Methodologies: SOLID, DDD, Scrum
+- 📈 Methodologies: SOLID, DDD, TDD, Scrum
 
 ## Get in Touch
 
